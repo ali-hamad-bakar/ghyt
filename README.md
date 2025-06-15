@@ -1,2 +1,2 @@
 # ghyt
-SVM, Random Forest, and Naive Bayes Machine Learning Models for Text Classification Tasks in Swahili
+SVM, Random Forest, and Naive Bayes Machine Learning Models for Text Classification Tasks in Swahilijjh
